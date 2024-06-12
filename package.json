@@ -1,0 +1,19 @@
+{
+  "name": "bank_data_api",
+  "version": "1.0.0",
+  "description": "Application to get customer signature and photo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md Sarfaraj Ahmad",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^1.37.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.2.3"
+  }
+}
